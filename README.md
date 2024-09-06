@@ -11,7 +11,7 @@ Table 1 and 2 show the important functions and their descriptions of the ellipti
 
 ![image](https://github.com/user-attachments/assets/e6984667-df52-4a36-91d4-d4eed8117a55)
 
-In Table 3 gives image processing methods and descriptions of the elliptic quaternion toolbox developed using the theory of elliptic quaternions. .
+In Table 3 gives image processing methods and descriptions of the elliptic quaternion toolbox developed using the theory of elliptic quaternions. 
 
 ![image](https://github.com/user-attachments/assets/3ebf48cf-5509-47d5-8e22-dc3b8a37a75b) ![image](https://github.com/user-attachments/assets/d86fb377-da03-4de2-828c-6f590c89327c)
 
